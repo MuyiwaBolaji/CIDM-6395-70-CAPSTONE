@@ -1,5 +1,5 @@
  
-##Bolaji Muyiwa
+**Bolaji Muyiwa**
  
 Introduction
 My name is Bolaji Muyiwa, and I am currently working as a Support Escalation Engineer at a leading software development company headquartered in Redmond, Washington. I specialize in Azure Infrastructure‑as‑a‑Service (IaaS), with a focus on compute and storage solutions.
